@@ -1,2 +1,3 @@
 console.log('hello');
-console.log('hello2');
+// insert comment on line 2 - changed second log
+console.log('-hello-2');
