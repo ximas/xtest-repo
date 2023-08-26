@@ -3,6 +3,7 @@
 	-- comment
 	procedure test_proc;
 	
+	-- change to package
 end;
 CREATE OR REPLACE EDITIONABLE PACKAGE BODY "WKSP_SAMITEST"."TEST_PKG" is
 
