@@ -11,7 +11,9 @@ CREATE OR REPLACE EDITIONABLE PACKAGE BODY "WKSP_SAMITEST"."TEST_PKG_2" is
 		l_num number;
 	begin
 		null;
-		l_num := 1;
+		l_num := 2;
+
+		-- hello
 	end;
 
 	procedure this_is_a_test is
